@@ -1,21 +1,10 @@
 # Mongo_Entrega
-# 🗄️ Actividad MongoDB con Python - CRUD de Estudiantes
+# Actividad Mongo con Python
 
 ## Descripción
 Aplicación de consola desarrollada en Python (Google Colab) que realiza
 operaciones CRUD sobre una colección de estudiantes usando MongoDB Atlas
 y PyMongo.
-
----
-
-## 🔧 Tecnologías usadas
-- Python 3
-- PyMongo 4.17
-- MongoDB Atlas (base de datos en la nube)
-- MongoDB Compass (cliente visual)
-- Google Colab
-
----
 
 ## ☁️ Interacción con MongoDB Atlas
 
@@ -39,15 +28,3 @@ y PyMongo.
 
 ---
 
-## ▶️ Funciones implementadas
-
-| Función | Descripción |
-|---|---|
-| `insertar_estudiante(nombre, edad, carrera)` | Inserta un nuevo documento |
-| `listar_estudiantes()` | Lista todos los estudiantes |
-| `actualizar_edad(nombre, nueva_edad)` | Actualiza la edad por nombre |
-| `eliminar_estudiante(nombre)` | Elimina un estudiante por nombre |
-
----
-
-## 📋 Menú de opciones
